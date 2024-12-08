@@ -1,0 +1,58 @@
+{
+	"name": "black-on-gray",
+	"displayName": "Black on Gray",
+	"description": "When colors get too distracting but black on white is too contrasting",
+	"version": "1.0.0",
+	"publisher": "KramLololo",
+	"author": {
+		"name": "KramLololo",
+		"email": "markbgmc@gmail.com"
+	},
+	"contributors": [
+		"KramLololo"
+	],
+	"maintainers": [
+		"KramLololo"
+	],
+	"engines": {
+		"vscode": "^1.95.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"gray",
+		"black",
+		"theme",
+		"text",
+		"silver",
+		"productivity",
+		"monochrome",
+		"monotone",
+		"white",
+		"productive"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Black on Gray",
+				"uiTheme": "vs",
+				"path": "./themes/theme-black-on-gray.json"
+			}
+		]
+	},
+	"icon": "images/icon.png",
+	"galleryBanner": {
+		"color": "#949494",
+		"theme": "light"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/KramLololo/theme-black-on-gray.git"
+	},
+	"bugs": {
+		"url": "https://github.com/KramLololo/theme-black-on-gray/issues",
+		"email": "markbgmc@gmail.com"
+	},
+	"readme": "README.md"
+}
