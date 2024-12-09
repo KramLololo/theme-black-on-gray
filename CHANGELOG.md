@@ -12,6 +12,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - LICENSE file.
 
+### Changed
+
+- package.json to reflect the license
+
 ## [1.0.0] - 2024-12-08
 
 - Initial release
