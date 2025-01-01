@@ -3,7 +3,7 @@
 It doesn't matter if it's the text color (dark themes) or the background color (light themes), **white** screen light *fries* your eyes whether you notice that or not. I am more sensitive to it thus I have created this theme to irradicate any white at least while using VSCode. The theme should also enhance productivity in the ways mentioned below.
 
 ## Preview
-![Preview](images/preview.png)
+![Preview](https://raw.githubusercontent.com/KramLololo/theme-black-on-gray/refs/heads/main/images/preview.png)
 <sup>Example taken from https://github.com/PacktPublishing/JavaScript-by-Example/blob/master/Chapter07/CompletedCode/src/services/api/apiCall.js</sup>
 
 ## Design choices and their reasons
