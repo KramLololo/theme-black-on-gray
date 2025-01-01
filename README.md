@@ -11,8 +11,8 @@ It doesn't matter if it's the text color (dark themes) or the background color (
 ### The text is darkest
 The reason for this is 100% of the time you focus on the text and 0% of the time you focus on the background. Hence your eyes will be affected most by the text color. If the text was instead lighter than the background, you'd strain your eyes reading light colored text.
 
-### There is hardly any color.
-Color is a top source of **distraction** which is why it's almost absent in this theme. Your subconsious is very easily affected by colors and if they aren't chosen right, they will negatively impact your productivity. So I believe that the absense of colors is a much **safer** option than poorly chosen colors. If you are bent on having color but appreciate this theme you may fork it on Theme Studio, which will allow you to edit it: https://themes.vscode.one/theme/Kram/oZodIUQl
+### There is hardly any color
+The only noticable colors are applied to brackets which helps you keep track of nesting. Color is a top source of **distraction** which is why it's almost absent in this theme. Your subconsious is very easily affected by colors and if they aren't chosen right, they will negatively impact your productivity. So I believe that the absense of colors is a much **safer** option than poorly chosen colors. If you are bent on having color but appreciate this theme you may fork it on Theme Studio, which will allow you to edit it: https://themes.vscode.one/theme/Kram/oZodIUQl
 
 ### Most elements are faded
 This is to put as much attention on the code as possible. Most optional elements, including line number and indentation guides, are faded to not distract the user while working. They haven't been removed completely so if you ever need them, you can still see them.
