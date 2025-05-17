@@ -2,7 +2,7 @@
 	"name": "black-on-gray",
 	"displayName": "Black on Gray",
 	"description": "When colors get too distracting but black on white is too contrasting",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"publisher": "KramLololo",
 	"author": {
 		"name": "KramLololo",
@@ -16,7 +16,7 @@
 	],
 	"license": "SEE LICENSE IN LICENSE",
 	"engines": {
-		"vscode": "^1.95.0"
+		"vscode": "^1.60.0"
 	},
 	"categories": [
 		"Themes"
